@@ -1,0 +1,1 @@
+Options AllAuthType BasicAuthUserFile /home/audiorom/userdbs/htpasswdAuthGroupFile /dev/nullAuthName audiorom<Limit GET> require user audiorom </Limit>
